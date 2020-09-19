@@ -43,5 +43,5 @@ jobs:
       name: Upload
       with:
         name: docs
-        path: dist-newstyle/arch-hs-0.0.0.0-docs.tar.gz
+        path: arch-hs-0.0.0.0-docs.tar.gz
     
